@@ -1,22 +1,17 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+> Bug fixes, front end setup, back end setup
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> Talk to Collegiate Store and ask for their APIs
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> Obtain 360 degree camera, 
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> There's no public API of Collegiate Store, it may take some time to have Collegiate Store's permission for their private APIs.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> Contact of Collegiate Store: [Ken Palmer](Kpalmer@follett.com)
