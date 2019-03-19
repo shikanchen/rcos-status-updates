@@ -4,6 +4,7 @@
 
 ## This Week's Plan
 
+> Environment Core Structure Setup
 > Front End Structure/Environment Build
 > Dependency Setup
 

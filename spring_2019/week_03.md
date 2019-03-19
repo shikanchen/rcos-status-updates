@@ -1,13 +1,16 @@
 ## Last Week's Accomplishments
 
 > Build Menu Page
-> Help group member set up environment
+> menu template added
+> debug menu template
 
 ## This Week's Plan
 
-> Front end Design
+> Side Link Update(enable rcos hp && diable fb && diable twitter)
+> simplify template && proposal view on homepage
 
 ## Anything Blocking?
+> Data compress issue
 
 ## Notes
 
