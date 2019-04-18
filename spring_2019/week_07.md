@@ -1,20 +1,16 @@
 ## Last Week's Accomplishments
 
-> Data merge on the back end
-
-> Security check
-
-## This Week's Plan
-
 > PHP && Python bridge added
 
 > Chromedriver linked
 
-> * rm old View module
+## This Week's Plan
+
+> Data Structure for our database has conflict with the back end. We need to decide whether to change the structure completely or modify the back end logic which may cause the front end data modification.
+
+> still rm some old unused modules
 
 ## Anything Blocking?
-
-> db config not ignored (security breach)
 
 ## Notes
 
